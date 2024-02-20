@@ -1,5 +1,5 @@
-This is my portfolio.
-On this site, you'll find
-* My biography
-* My projects
-* My résumé
+Welcome to my portfolio!
+
+* About
+* Résumé
+* Contact
