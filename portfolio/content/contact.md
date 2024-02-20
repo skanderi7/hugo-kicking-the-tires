@@ -5,4 +5,4 @@ draft = false
 +++
 
 * Email: skanderi@seas.upenn.edu
-* Location: Philadelphia, PA
+* LinkedIn: www.linkedin.com/in/sid-kanderi-071152224
